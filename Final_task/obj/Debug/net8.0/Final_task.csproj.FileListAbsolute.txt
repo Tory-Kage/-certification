@@ -1,0 +1,14 @@
+D:\чеба\git\Final_task\bin\Debug\net8.0\Final_task.exe
+D:\чеба\git\Final_task\bin\Debug\net8.0\Final_task.deps.json
+D:\чеба\git\Final_task\bin\Debug\net8.0\Final_task.runtimeconfig.json
+D:\чеба\git\Final_task\bin\Debug\net8.0\Final_task.dll
+D:\чеба\git\Final_task\bin\Debug\net8.0\Final_task.pdb
+D:\чеба\git\Final_task\obj\Debug\net8.0\Final_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\чеба\git\Final_task\obj\Debug\net8.0\Final_task.AssemblyInfoInputs.cache
+D:\чеба\git\Final_task\obj\Debug\net8.0\Final_task.AssemblyInfo.cs
+D:\чеба\git\Final_task\obj\Debug\net8.0\Final_task.csproj.CoreCompileInputs.cache
+D:\чеба\git\Final_task\obj\Debug\net8.0\Final_task.dll
+D:\чеба\git\Final_task\obj\Debug\net8.0\refint\Final_task.dll
+D:\чеба\git\Final_task\obj\Debug\net8.0\Final_task.pdb
+D:\чеба\git\Final_task\obj\Debug\net8.0\Final_task.genruntimeconfig.cache
+D:\чеба\git\Final_task\obj\Debug\net8.0\ref\Final_task.dll
